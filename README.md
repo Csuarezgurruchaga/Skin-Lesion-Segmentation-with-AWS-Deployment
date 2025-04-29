@@ -25,6 +25,4 @@ The system follows a serverless architecture pattern:
    - Overlays the segmentation on the original image  
    - Saves the result to another S3 bucket for output  
 
-## Repository Structure
-
-![Repository Structure](readme_images/repository_structure.png)
+<img src="readme_images/repository_structure.png" alt="Repository Structure" width="50%">
